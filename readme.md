@@ -1,5 +1,3 @@
-# Homework: Building a rest-api with sequelize-orm and express.js
-
 ## Task overview
 
 Getting started with mySQL and sequelize ORM.
